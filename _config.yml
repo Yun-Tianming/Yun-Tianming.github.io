@@ -9,7 +9,7 @@ url: https://yun-tianming.github.io
 owner:
   name: Fanyi Meng
   avatar: luofu.jpg
-#  bio:
+  bio: A passionate developer
   email: fanyim0504@foxmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: LuoFu80241881
@@ -34,7 +34,7 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 # For external links add external: true
 links:
   - title: About Me
-    url: /
+    url: https://yun-tianming.github.io
   - title: Resume
     url: /file/Resume-HanlinCAI.pdf
   - title: Publications
@@ -78,7 +78,7 @@ kramdown:
 
 # disqus settings:
 disqus:
-  shortname: lancecai
+  shortname: luofu
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]

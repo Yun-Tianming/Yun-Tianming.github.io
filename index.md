@@ -6,7 +6,7 @@ layout: page
 
 <img src="images/luofu.jpg" class="floatpic" >
 
-Here is **Fanyi Meng ([孟凡祎](https://yun-tianming.github.io/file/简历.pdf))**,You can also call me Luofu, which is one of my favorite nicknames.
+Here is Fanyi Meng ([孟凡祎](https://yun-tianming.github.io/file/简历.pdf)),You can also call me **Luofu**, which is one of my favorite nicknames.
 
 I am currently pursuing my studies in Marine Science at [Shanghai Ocean University](https://www.shou.edu.cn/), with a research focus on using mathematical modeling to unravel the mysteries of the Southern Ocean ecosystem. My ultimate aspiration is to immerse myself in the enchanting and breathtaking beauty of Antarctica, experiencing its awe-inspiring landscapes firsthand.
 
@@ -18,7 +18,7 @@ I am currently pursuing my studies in Marine Science at [Shanghai Ocean Universi
 
 - **Sep 2019 - June 2023:** Shanghai Ocean University (Bachelor)
 - **Sep 2022 - May 2025:** Shanghai Ocean University (Master)
-- Ecological surveys are my passion, and I am eagerly looking forward to becoming a volunteer in activities such as bird surveys! [Online talk with me,待定](https://calendly.com/lancecai/meet-with-lance)
+- Ecological surveys are my passion, and I am eagerly looking forward to becoming a volunteer in activities such as bird surveys! 
 
 <br>
 
@@ -33,7 +33,7 @@ I am currently pursuing my studies in Marine Science at [Shanghai Ocean Universi
 My research focus is to provide new insights into the Southern Ocean ecosystem using deep learning and traditional mathematical models within the constraints of limited computational resources💻. Currently, I am working on modeling the behavior of krill fisheries using generative models (GAN). In the future, I hope to utilize object detection techniques to track top predators🐧 in the Southern Ocean that are equipped with electronic tags.
 <div class="third">
 <img src="/images/seal1.jpg">
-<img src="/images/seal2.jpg">
+<img src="/images/bird.jpg">
 <img src="/images/king.jpg">
 </div>
 <br>
