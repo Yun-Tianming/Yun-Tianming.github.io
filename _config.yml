@@ -34,7 +34,7 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 # For external links add external: true
 links:
   - title: About Me
-    url: https://yun-tianming.github.io
+    url: /
   - title: Resume
     url: /file/Resume-HanlinCAI.pdf
   - title: Publications
