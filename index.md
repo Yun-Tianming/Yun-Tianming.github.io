@@ -47,3 +47,10 @@ My research focus is to provide new insights into the Southern Ocean ecosystem u
 This is a novice with no notable achievements to showcase(ㄒoㄒ)~~ If you are willing, you can take a look at a [Chinese paper](https://yun-tianming.github.io/file/南极凯尔盖朗海台南象海豹繁殖后运动行为特征分析.pdf) I have published.
 
 <br>
+
+## Chat with me 
+
+If you are a user of Chinese real-time communication software, these methods of contacting me may be more convenient:
+
+- QQ: 2379533384
+- WeChat: beinor12e
