@@ -8,9 +8,12 @@ title: Hobbies
 
 ## Photography
 
-<div class="third">
+[//]: # (<div class="third">)
+<div>
 <img src="/images/pic1.JPG">
+<div>
 <img src="/images/pic2.JPG">
+<div>
 <img src="/images/pic3.JPG">
 </div>
 <br>I thoroughly enjoy carrying my camera📷 with me to capture the life! I have a particular fondness for documenting human stories, landscapes, and street photography. It would be even better if I could find someone willing to be my model🥰
