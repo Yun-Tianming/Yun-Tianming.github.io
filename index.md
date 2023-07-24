@@ -6,9 +6,9 @@ layout: page
 
 <img src="images/luofu.jpg" class="floatpic" >
 
-Here is **Hanlin Cai (Lance, [蔡汉霖](https://caihanlin.com/file/蔡汉霖简历.pdf))**.
+Here is **Fanyi Meng ([孟凡祎](https://yun-tianming.github.io/file/简历.pdf))**,You can also call me Luofu, which is one of my favorite nicknames.
 
-I am a junior majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). I am extremely fortunate to be advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Dr. Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). Here is [my Resume](https://caihanlin.com/file/Resume-HanlinCAI.pdf).
+I am currently pursuing my studies in Marine Science at [Shanghai Ocean University](https://www.shou.edu.cn/), with a research focus on using mathematical modeling to unravel the mysteries of the Southern Ocean ecosystem. My ultimate aspiration is to immerse myself in the enchanting and breathtaking beauty of Antarctica, experiencing its awe-inspiring landscapes firsthand.
 
 <br>
 
@@ -16,10 +16,9 @@ I am a junior majoring in **Automation** at Fuzhou University and **Robotics** a
 
 **I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
 
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - May 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Intern)
-- Expect to apply for a one-year MSc in the UK and will graduate in 2025. Looking for PhD position after MSc! [Online talk with me](https://calendly.com/lancecai/meet-with-lance)
+- **Sep 2019 - June 2023:** Shanghai Ocean University (Bachelor)
+- **Sep 2022 - May 2025:** Shanghai Ocean University (Master)
+- Ecological surveys are my passion, and I am eagerly looking forward to becoming a volunteer in activities such as bird surveys! [Online talk with me,待定](https://calendly.com/lancecai/meet-with-lance)
 
 <br>
 
@@ -27,24 +26,22 @@ I am a junior majoring in **Automation** at Fuzhou University and **Robotics** a
 
 ## Research Interests
 
-- Industrial IoT System
-- Bluetooth Low Energy
-- Applied Machine Learning
+- Deep Learning
+- Antarctic krill
+- Marine mammals & Seabirds
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
-
+My research focus is to provide new insights into the Southern Ocean ecosystem using deep learning and traditional mathematical models within the constraints of limited computational resources💻. Currently, I am working on modeling the behavior of krill fisheries using generative models (GAN). In the future, I hope to utilize object detection techniques to track top predators🐧 in the Southern Ocean that are equipped with electronic tags.
+<div class="third">
+<img src="/images/seal1.jpg">
+<img src="/images/seal2.jpg">
+<img src="/images/king.jpg">
+</div>
 <br>
 
 ---
 
 ## News and Updates
 
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Happy to win the Finalist Award in MCM 2023.
-- **Feb 2023：**[**FZU-Flying-Book 福州大学飞跃手册**](https://fzu-fly.online/) has been published!
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
-- **Dec 2022：**Research assistant at IACTIP Lab, advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/en/info/1009/1072.htm).
-- **Sep 2022：**Happy to be nominated for the China National Scholarship.
-- **Jun 2022：**Summer Research Intern at University of Cambridge, advised by [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/ ).
+This is a novice with no notable achievements to showcase(ㄒoㄒ)~~ If you are willing, you can take a look at a [Chinese paper](https://yun-tianming.github.io/file/南极凯尔盖朗海台南象海豹繁殖后运动行为特征分析.pdf) I have published.
 
 <br>
