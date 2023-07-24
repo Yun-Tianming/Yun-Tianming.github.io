@@ -4,10 +4,12 @@ permalink: /gallery/index.html
 title: Gallery
 ---
 
+
+
+# Gallery
 - 这是我的朋友圈~日常吐槽用，还又终于可以分享不被压缩的照片了😜
 - This is a section where I share about my daily life. Chinese will be the primary language here. I apologize for any inconvenience caused if you don't understand Chinese.
 
-# Gallery
 
 ## 2023/7/24
 ### 有沪上阿姨和空调，这里不是家哪里是家🥰
