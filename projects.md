@@ -4,56 +4,50 @@ permalink: /projects/index.html
 title: Projects
 ---
 
+There is nothing worth showcasing at the moment😥
 # Research Projects
 
 P.S., click the hyperlink title to access the source.<br>
 
-#### [OpenIoT: Industrial Inspection System](https://fzuiot.site/)
+continuing。。。。
 
-<center>
-<img src="/images/openiot-system.png">
-</center>
+[//]: # (#### [OpenIoT: Industrial Inspection System]&#40;https://fzuiot.site/&#41;)
 
-<br>
 
-#### [Multi-objective Optimization Strategy Model (MCM-2023)](https://caihanlin.com/mypaper/modeling/202302COMAP.pdf)
+[//]: # (<center>)
 
-<center>
-<img src="/images/MCM-figure3.jpg">
-</center>
-<br>
+[//]: # (<img src="/images/openiot-system.png">)
 
-#### [ResNet-AHP: Feedback ResNet-50 for TSD](https://caihanlin.com/mypaper/202302ICAROB.pdf)
+[//]: # (</center>)
 
-<center>
-<img src="/images/resnet-ahp.png">
-</center>
+[//]: # ()
+[//]: # (<br>)
 
-<br>
+[//]: # ()
+[//]: # (#### [Multi-objective Optimization Strategy Model &#40;MCM-2023&#41;]&#40;https://caihanlin.com/mypaper/modeling/202302COMAP.pdf&#41;)
 
-#### [CityManager: Community Monitoring System](https://caihanlin.com/mypaper/202208cenim.pdf )
+[//]: # ()
+[//]: # (<center>)
 
-<center>
-<img src="/images/iot-manager.png">
-</center>
-<br>
+[//]: # (<img src="/images/MCM-figure3.jpg">)
+
+[//]: # (</center>)
+
+[//]: # (<br>)
+
+
 
 <br>
 
 ---
 
 # Open-source Projects
-
+continuing。。。。
 <br>
 
-#### [FZU-Flying-Book 福州大学飞跃手册](https://fzu-fly.online/)
+[//]: # ()
+[//]: # (#### [FZU-Flying-Book 福州大学飞跃手册]&#40;https://fzu-fly.online/&#41;)
 
-This is the flying handbook for FZU students. Many outstanding graduates of Fuzhou University leave their unique experiences, valuable wisdom, and sincere wishes in this flying-handbook.
+[//]: # ()
+[//]: # (This is the flying handbook for FZU students. Many outstanding graduates of Fuzhou University leave their unique experiences, valuable wisdom, and sincere wishes in this flying-handbook.)
 
-#### [FZU-LaTeX-template 精美学术模版](https://github.com/GuangLun2000/FZU-latex-template)
-
-Many elegant LaTeX templates designed for FZU students, including Beamer Theme Slides, Recommendation Letters and Undergraduate Thesis Template.
-
-#### [miec-lance 自动化系修读材料](https://github.com/GuangLun2000/miec-lance )
-
-This repo is where I keep track of my incredible journey at FZU-MIEC. You can learn RIDS & CSEE better by refering to this repo, but **please do not directly copy my assignments, codes and any reports!**

@@ -6,7 +6,7 @@ title: Hobbies
 
 # Hobbies
 
-## Teaching & Workshops
+## Photography
 
 <div class="third">
 <img src="/images/prelection1.JPG">
@@ -20,7 +20,7 @@ title: Hobbies
 
 
 
-## Swimming & Surfing
+## Sporting
 
 <div class="third">
 <img src="/images/swimming2.JPG">
@@ -44,11 +44,15 @@ This is my love. Her name is Qbo (Q宝).
 
 ## Chat with me 
 
-**Jan 2023:** I have set up the [online-coffee-time](https://calendly.com/lancecai/meet-with-lance) (Inspired by **[Shangzhe Wu](https://elliottwu.com/)**). Welcome to chat with me!
+[//]: # (**Jan 2023:** I have set up the [online-coffee-time]&#40;https://calendly.com/lancecai/meet-with-lance&#41; &#40;Inspired by **[Shangzhe Wu]&#40;https://elliottwu.com/&#41;**&#41;. Welcome to chat with me!)
 
-<!-- Calendly inline widget begin -->
+[//]: # ()
+[//]: # (<!-- Calendly inline widget begin -->)
 
-<div class="calendly-inline-widget" data-url="https://calendly.com/lancecai/meet-with-lance" style="min-width:320px;height:630px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-<!-- Calendly inline widget end -->
+[//]: # ()
+[//]: # (<div class="calendly-inline-widget" data-url="https://calendly.com/lancecai/meet-with-lance" style="min-width:320px;height:630px;"></div>)
+
+[//]: # (<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>)
+
+[//]: # (<!-- Calendly inline widget end -->)
 
