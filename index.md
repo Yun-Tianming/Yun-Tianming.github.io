@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="luofu.jpg" class="floatpic" >
+<img src="images/luofu.jpg" class="floatpic" >
 
 Here is **Hanlin Cai (Lance, [蔡汉霖](https://caihanlin.com/file/蔡汉霖简历.pdf))**.
 
