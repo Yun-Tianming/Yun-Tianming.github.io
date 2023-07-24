@@ -7,7 +7,7 @@ url: https://yun-tianming.github.io
 
 # Owner/author information
 owner:
-  name: Fanyi Meng
+  name: "{{ __dir__ }}"
   avatar: luofu.jpg
 #  bio:
   email: fanyim0504@foxmail.com
