@@ -20,16 +20,16 @@ title: Gallery
 
 <br>
 
-[//]: # (#### [Multi-objective Optimization Strategy Model &#40;MCM-2023&#41;]&#40;https://caihanlin.com/mypaper/modeling/202302COMAP.pdf&#41;)
+## 2023/7/24
+### 每次想扛相机出去，看到自己的一内存卡照片就陷入沉思😢
 
-[//]: # ()
-[//]: # (<center>)
+<center>
 
-[//]: # (<img src="/images/MCM-figure3.jpg">)
+<img src="/gallery/002.jpg" title="祎祎与马">
 
-[//]: # (</center>)
+</center>
 
-[//]: # (<br>)
+<br>
 
 
 
