@@ -13,14 +13,3 @@ title: Blogs
 
 <br>
 
-## Leave a Message
-评论功能太贵了，有钱再说😫
-<br>
-
-
-{% include Waline.html %} 
-
-
-<br>
-
-

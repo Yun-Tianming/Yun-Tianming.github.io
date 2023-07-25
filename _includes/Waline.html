@@ -1,3 +1,4 @@
+
 <head>
     <!-- ... -->
     <link
@@ -15,6 +16,19 @@
     init({
         el: '#waline',
         serverURL: 'https://coment-system.vercel.app',
+        emoji: [
+            '//unpkg.com/@waline/emojis@1.1.0/tieba',
+            '//unpkg.com/@waline/emojis@1.1.0/bilibili',
+            '//unpkg.com/@waline/emojis@1.1.0/tw-emoji',
+        ],
+        reaction: [
+            'https://unpkg.com/@waline/emojis@1.1.0/weibo/weibo_heart_eyes.png',
+            'https://unpkg.com/@waline/emojis@1.1.0/weibo/weibo_dog_joy.png',
+            'https://unpkg.com/@waline/emojis@1.1.0/weibo/weibo_dog_consider.png',
+            'https://unpkg.com/@waline/emojis@1.1.0/weibo/weibo_sob.png',
+        ],
+        pageview: true, // 浏览量统计
+        comment: true, // 评论数统计
     });
 </script>
 </body>
