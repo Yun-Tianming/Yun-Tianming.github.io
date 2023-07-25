@@ -17,10 +17,10 @@ title: Blogs
 评论功能太贵了，有钱再说😫
 <br>
 
-[//]: # ()
-[//]: # ({% include disqus.html %} )
 
-[//]: # ()
-[//]: # (<br>)
+{% include Waline.html %} 
+
+
+<br>
 
 
