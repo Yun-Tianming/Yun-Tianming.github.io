@@ -1,0 +1,40 @@
+
+<head>
+    <!-- ... -->
+    <link
+            rel="stylesheet"
+            href="https://unpkg.com/@waline/client@v2/dist/waline.css"
+    />
+    <!-- ... -->
+</head>
+<body>
+<!-- ... -->
+<div id="waline"></div>
+<script type="module">
+    import { init } from 'https://unpkg.com/@waline/client@v2/dist/waline.mjs';
+
+    init({
+        el: '#waline',
+        serverURL: 'https://coment-system.vercel.app',
+        emoji: [
+            '//unpkg.com/@waline/emojis@1.1.0/tieba',
+            '//unpkg.com/@waline/emojis@1.1.0/bilibili',
+            '//unpkg.com/@waline/emojis@1.1.0/tw-emoji',
+        ],
+        reaction: [
+            '//unpkg.com/@waline/emojis@1.1.0/tw-emoji/1f60e.png',
+            '//unpkg.com/@waline/emojis@1.1.0/tw-emoji/1f642.png',
+            '//unpkg.com/@waline/emojis@1.1.0/tw-emoji/2639.png',
+            '//unpkg.com/@waline/emojis@1.1.0/tw-emoji/1f92e.png',
+            '//unpkg.com/@waline/emojis@1.1.0/tw-emoji/1f612.png',
+            '//unpkg.com/@waline/emojis@1.1.0/tw-emoji/1f616.png',
+        ],
+        locale: {
+            reactionTitle: 'What do you think of this article🤔?',
+        },
+
+        pageview: true, // 浏览量统计
+        comment: true, // 评论数统计
+    });
+</script>
+</body>
