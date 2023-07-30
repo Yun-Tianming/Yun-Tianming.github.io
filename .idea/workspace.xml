@@ -38,6 +38,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/MyProject/myBlog/Yun-Tianming.github.io/_includes&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -47,7 +48,11 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\MyProject\myBlog\Yun-Tianming.github.io\_includes" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\MyProject\myBlog\Yun-Tianming.github.io\blogs\assets" />
       <recent name="E:\MyProject\myBlog\Yun-Tianming.github.io\file" />
       <recent name="E:\MyProject\myBlog\Yun-Tianming.github.io\images" />
     </key>
@@ -65,6 +70,8 @@
       <workItem from="1690159235541" duration="25469000" />
       <workItem from="1690273912496" duration="4220000" />
       <workItem from="1690295236554" duration="3528000" />
+      <workItem from="1690383374782" duration="5075000" />
+      <workItem from="1690518487889" duration="1990000" />
     </task>
     <servers />
   </component>
