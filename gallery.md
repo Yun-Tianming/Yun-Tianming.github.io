@@ -12,8 +12,8 @@ title: Gallery
 
 ---------------------------------------------------------------
 
-## 2023/7/230
-### A runaway dark cloud😉
+## 2023/7/30
+### A lonely dark cloud😉
 
 <center>
 <img src="/gallery/006.jpg">
