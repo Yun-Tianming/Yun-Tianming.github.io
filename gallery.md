@@ -12,6 +12,12 @@ title: Gallery
 
 ---------------------------------------------------------------
 
+## 2023/7/31
+### I leave no trace of wings in the air, but I am glad I have had my flight.
+
+[//]: # (为众人抱薪者，不可使其毙于风雪。)
+<br>
+
 ## 2023/7/30
 ### A lonely dark cloud😉
 
