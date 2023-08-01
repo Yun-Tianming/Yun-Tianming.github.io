@@ -12,6 +12,19 @@ title: Gallery
 
 ---------------------------------------------------------------
 
+## 2023/8/1
+### 挑战极限，月底交出论文😔
+
+<table>
+    <tr>
+        <td ><center><img src="/gallery/007%20.jpg" ></center></td>
+        <td ><center><img src="/gallery/008.jpg" ></center></td>
+    </tr>
+
+</table>
+
+<br>
+
 ## 2023/7/31
 ### I leave no trace of wings in the air, but I am glad I have had my flight.
 
