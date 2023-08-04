@@ -11,7 +11,8 @@ title: Gallery
 - This is a section where I share about my daily life. Chinese will be the primary language here. I apologize for any inconvenience caused if you don't understand Chinese.
 
 ---------------------------------------------------------------
-adorable.
+## 2023/8/4
+### 🐏🐏
 
 ## 2023/8/2
 ### Furry and Lovely🥰🥰🥰
