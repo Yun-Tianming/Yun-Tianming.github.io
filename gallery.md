@@ -11,6 +11,19 @@ title: Gallery
 - This is a section where I share about my daily life. Chinese will be the primary language here. I apologize for any inconvenience caused if you don't understand Chinese.
 
 ---------------------------------------------------------------
+## 2023/8/7
+### 我以为我战胜了奥密克绒，其实我是战胜了抗原试剂盒😥
+
+<table>
+    <tr>
+        <td ><center><img src="/gallery/011.jpg" ></center>发烧第二天</td>
+        <td ><center><img src="/gallery/012.jpg" ></center>发烧第四天</td>
+    </tr>
+
+</table>
+
+<br>
+
 ## 2023/8/4
 ### 🐏🐏
 
