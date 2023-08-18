@@ -30,7 +30,7 @@ I am currently pursuing my studies in Marine Science at [Shanghai Ocean Universi
 
 <script src="//cdn.wordart.com/wordart.min.js" async defer></script>
 
-<div style="width: 400px; height: 400px;" data-wordart-src="//cdn.wordart.com/json/9e5fngrbm0r8" data-wordart-show-attribution></div>
+<div style="" data-wordart-src="//cdn.wordart.com/json/9e5fngrbm0r8" data-wordart-show-attribution></div>
 
 <br>
 
