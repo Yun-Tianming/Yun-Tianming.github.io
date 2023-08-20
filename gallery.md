@@ -11,6 +11,16 @@ title: Gallery
 - This is a section where I share about my daily life. Chinese will be the primary language here. I apologize for any inconvenience caused if you don't understand Chinese.
 
 ---------------------------------------------------------------
+
+## 2023/8/21
+### 很喜欢lks这期视频，或许这就是摄影的魅力吧！ 还有，哈苏的色彩科学真令人羡慕😉
+
+<center>
+<img src="/gallery/013.avif">
+</center>
+
+<br>
+
 ## 2023/8/7
 ### 我以为我战胜了奥密克绒，其实我是战胜了抗原试剂盒😥
 
