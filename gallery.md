@@ -13,7 +13,7 @@ title: Gallery
 ---------------------------------------------------------------
 
 ## 2023/8/21
-### 很喜欢lks这期视频，或许这就是摄影的魅力吧！ 还有，哈苏的色彩科学真令人羡慕😉
+### 很喜欢lks [这期视频](https://www.bilibili.com/video/BV1gF41117fN/?spm_id_from=444.41.list.card_archive.click&vd_source=a4fe546e92107179c3044d619f1cebfa)，或许这就是摄影的魅力吧！ 还有，哈苏的色彩科学真令人羡慕😉
 
 <center>
 <img src="/gallery/013.avif">
