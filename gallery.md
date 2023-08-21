@@ -13,6 +13,19 @@ title: Gallery
 ---------------------------------------------------------------
 
 ## 2023/8/21
+### 昨儿当了一回特种兵，一日往返沪杭，本以为旅游淡季没啥人，去忽略了亚运会这件事😫
+
+<table>
+    <tr>
+        <td ><center><img src="/gallery/014.jpg" ></center></td>
+        <td ><center><img src="/gallery/015.jpg" ></center></td>
+    </tr>
+
+</table>
+
+<br>
+
+## 2023/8/21
 ### 很喜欢lks [这期视频](https://www.bilibili.com/video/BV1gF41117fN/?spm_id_from=444.41.list.card_archive.click&vd_source=a4fe546e92107179c3044d619f1cebfa)，或许这就是摄影的魅力吧！ 还有，哈苏的色彩科学真令人羡慕😉
 
 <center>
