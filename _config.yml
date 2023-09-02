@@ -39,8 +39,8 @@ links:
     url: /file/简历.pdf
   - title: Publications
     url: /publications/
-  - title: Projects
-    url: /projects/
+#  - title: Projects
+#    url: /projects/
   - title: Gallery
     url: /gallery/
   - title: Hobbies

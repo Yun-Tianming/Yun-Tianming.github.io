@@ -50,7 +50,7 @@ title: Publications
 ## Seminars & Conferences
 
 
-- Academic presentation at the Zhoushan Fisheries Conference.[Video](https://caihanlin.com/mypaper/modeling/202302COMAP.pdf),[PDF](https://yun-tianming.github.io/file/孟凡祎krillGAN.pdf).
+- Academic presentation at the Zhoushan Fisheries Conference.[Video](https://www.bilibili.com/video/BV1DN411v7U4/?spm_id_from=444.41.list.card_archive.click&vd_source=a4fe546e92107179c3044d619f1cebfa),[PDF](https://yun-tianming.github.io/file/孟凡祎krillGAN.pdf).
 
 
 <br>
