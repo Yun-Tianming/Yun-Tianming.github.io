@@ -6,20 +6,25 @@ title: Publications
 
 # Publications
 
-continuing...
+[//]: # (continuing...)
 
-[//]: # (## Undergrad Thesis)
+[//]: # ()
+## Research Publications  
 
+[//]: # ()
 [//]: # ()
 [//]: # (- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot]&#40;https://caihanlin.com/mypaper/thesis/IP-thesis.pdf&#41;)
 
+[//]: # ()
 [//]: # (<br>**Hanlin Cai** &#40;Advisor: Zhezhuang Xu&#41;)
 
+[//]: # ()
 [//]: # (<br>Industrial Placement Thesis in Huading Tech and IACTIP Lab)
 
+[//]: # ()
 [//]: # (<br>)
 
-[//]: # ()
+
 [//]: # (## Journal Paper)
 
 [//]: # ()
@@ -42,15 +47,12 @@ continuing...
 [//]: # (---)
 
 [//]: # ()
-[//]: # (## other)
+## Seminars & Conferences
 
-[//]: # ()
-[//]: # (- [Reshape the Crowning Glory of Maasai Mara]&#40;https://caihanlin.com/mypaper/modeling/202302COMAP.pdf&#41;)
 
-[//]: # (<br>**Hanlin Cai**, Yufei Wu, Wenxuan Luo, Zhezhuang Xu<br>Mathematical Contest In Modeling &#40;COMAP 2023&#41;)
+- Academic presentation at the Zhoushan Fisheries Conference.[Video](https://caihanlin.com/mypaper/modeling/202302COMAP.pdf),[PDF](https://yun-tianming.github.io/file/孟凡祎krillGAN.pdf).
 
-[//]: # (<br>**Finalist Award** &#40;Top 1% of all 20858 paper&#41;.)
 
-[//]: # (<br>)
+<br>
 
 
