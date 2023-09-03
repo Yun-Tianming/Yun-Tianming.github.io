@@ -27,6 +27,7 @@ I am currently pursuing my studies in Marine Science at [Shanghai Ocean Universi
 ---
 
 ## Skills
+I almost learn my all skills from the internet, now I represent them as wordart. In the future, I plan to write a blog to introduce these skills.
 
 <script src="//cdn.wordart.com/wordart.min.js" async defer></script>
 
