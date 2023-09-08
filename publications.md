@@ -11,18 +11,19 @@ title: Publications
 [//]: # ()
 ## Research Publications  
 
-[//]: # ()
-[//]: # ()
-[//]: # (- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot]&#40;https://caihanlin.com/mypaper/thesis/IP-thesis.pdf&#41;)
 
-[//]: # ()
+
+- [my chinese paper about southern elephant seals](https://yun-tianming.github.io/file/南极凯尔盖朗海台南象海豹繁殖后运动行为特征分析.pdf)
+
 [//]: # (<br>**Hanlin Cai** &#40;Advisor: Zhezhuang Xu&#41;)
 
 [//]: # ()
+[//]: # ()
+[//]: # ()
 [//]: # (<br>Industrial Placement Thesis in Huading Tech and IACTIP Lab)
 
-[//]: # ()
-[//]: # (<br>)
+
+<br>
 
 
 [//]: # (## Journal Paper)
@@ -53,6 +54,7 @@ title: Publications
 - Academic presentation at the Zhoushan Fisheries Conference.[[Video](https://www.bilibili.com/video/BV1DN411v7U4/?spm_id_from=444.41.list.card_archive.click&vd_source=a4fe546e92107179c3044d619f1cebfa),[PDF](https://blog.luofu.monster/file/孟凡祎krillGAN.pdf)]
 
 
+- A quickstart of Bayesian Hierarchical Model.[[Video](https://www.bilibili.com/video/BV1NF411D7UA/?spm_id_from=444.41.list.card_archive.click&vd_source=a4fe546e92107179c3044d619f1cebfa),[PDF](https://blog.luofu.monster/file/BHM介绍.pdf)]
 <br>
 
 

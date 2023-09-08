@@ -55,7 +55,32 @@ My research focus is to provide new insights into the Southern Ocean ecosystem u
 
 ## News and Updates
 
-This is a novice with no notable achievements to showcase(ㄒoㄒ)~~ If you are willing, you can take a look at a [Chinese paper](https://yun-tianming.github.io/file/南极凯尔盖朗海台南象海豹繁殖后运动行为特征分析.pdf) I have published.
+
+- **9 2023：** Bird Survey in Nanhui District, Shanghai.
+<table>
+    <tr>
+        <td ><center><img src="/gallery/news/006.jpg" ></center></td>
+        <td ><center><img src="/gallery/news/007.jpg" ></center></td>
+        <td ><center><img src="/gallery/news/008.jpg" ></center></td>
+    </tr>
+</table>
+
+- **8 2023：** Fishery Conference in Zhoushan.
+<table>
+    <tr>
+        <td ><center><img src="/gallery/news/004.jpg" ></center></td>
+        <td ><center><img src="/gallery/news/005.jpg" ></center></td>
+    </tr>
+</table>
+
+- **6-7 2023：** Owl Habitat Survey in Jilin Province Dagangzi .
+<table>
+    <tr>
+        <td ><center><img src="/gallery/news/001.jpg" ></center></td>
+        <td ><center><img src="/gallery/news/002.jpg" ></center></td>
+        <td ><center><img src="/gallery/news/003.jpg" ></center></td>
+    </tr>
+</table>
 
 <br>
 
