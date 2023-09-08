@@ -59,9 +59,9 @@ My research focus is to provide new insights into the Southern Ocean ecosystem u
 - **9 2023：** Bird Survey in Nanhui District, Shanghai.
 <table>
     <tr>
-        <td ><center><img width="30%" src="/gallery/news/006.jpg" ></center></td>
-        <td ><center><img width="30%" src="/gallery/news/007.jpg" ></center></td>
-        <td ><center><img width="30%" src="/gallery/news/008.jpg" ></center></td>
+        <td ><center><img width="50%" src="/gallery/news/006.jpg" ></center></td>
+        <td ><center><img width="50%" src="/gallery/news/007.jpg" ></center></td>
+    
     </tr>
 </table>
 
@@ -76,9 +76,8 @@ My research focus is to provide new insights into the Southern Ocean ecosystem u
 - **6-7 2023：** Owl Habitat Survey in Jilin Province Dagangzi .
 <table>
     <tr>
-        <td ><center><img width="30%" src="/gallery/news/001.jpg" ></center></td>
-        <td ><center><img width="30%" src="/gallery/news/002.jpg" ></center></td>
-        <td ><center><img width="30%" src="/gallery/news/003.jpg" ></center></td>
+        <td ><center><img width="45%" src="/gallery/news/002.jpg" ></center></td>
+        <td ><center><img width="50%" src="/gallery/news/003.jpg" ></center></td>
     </tr>
 </table>
 
