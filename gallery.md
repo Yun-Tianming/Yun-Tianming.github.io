@@ -15,7 +15,7 @@ title: Gallery
 ## 2023/9/13
 ### 你倒是不见外🤗
 <center>
-<img src="/gallery/018.jpg">
+<img src="/gallery/018.JPG">
 </center>
 
 ## 2023/9/3
