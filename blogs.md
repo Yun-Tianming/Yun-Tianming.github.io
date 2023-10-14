@@ -8,6 +8,7 @@ title: Blogs
 放一些自己的技术整理和随想感悟。
 
 ### 2023
+- [Resolving the Interface Issue in CNN Explainer](https://blog.luofu.monster/blogs/CNNExplainer)
 - [Docker部署academicGPT](https://blog.luofu.monster/blogs/Docker部署academicGPT)
 - [win实现xiaoaiGPT](https://blog.luofu.monster/blogs/win实现xiaoaiGPT)
 - [一个博客的诞生](https://blog.luofu.monster/blogs/一个博客的诞生)
