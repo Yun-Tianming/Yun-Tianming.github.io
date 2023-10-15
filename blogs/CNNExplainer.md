@@ -1,4 +1,4 @@
-# Resolving the Interface Issue in CNN Explainer
+# CNN Explainer Ⅰ: Resolving the Interface Issue
 
 Recently, I runed a CNN Explainer, a wonderful visualization repository
 on [GitHub](https://github.com/poloclub/cnn-explainer). The author provides a straightforward workflow, but I
