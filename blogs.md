@@ -8,6 +8,7 @@ title: Blogs
 放一些自己的技术整理和随想感悟。
 
 ### 2023
+- [CNN Explainer II: Deployment, Background Process Retention, and Domain Proxy](https://circular-kettle-026.notion.site/CNN-Explainer-II-Deployment-Background-Process-Retention-and-Domain-Proxy-6caaa37251584ae0b3d4e1a9c631eb7b?pvs=4)
 - [CNN Explainer Ⅰ: Resolving the Interface Issue ](https://blog.luofu.monster/blogs/CNNExplainer)
 - [Docker部署academicGPT](https://blog.luofu.monster/blogs/Docker部署academicGPT)
 - [win实现xiaoaiGPT](https://blog.luofu.monster/blogs/win实现xiaoaiGPT)
