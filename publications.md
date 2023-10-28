@@ -49,14 +49,35 @@ title: Publications
 
 [//]: # ()
 ## Seminars & Conferences
+### graduate stage
 
 - Drawn of LMM(AGI) [[Video](https://www.bilibili.com/video/BV1184y1R7Tg/?spm_id_from=444.41.list.card_archive.click&vd_source=a4fe546e92107179c3044d619f1cebfa),[PDF](https://blog.luofu.monster/file/LMM曙光.pdf)]
 
-
 - Academic presentation at the Zhoushan Fisheries Conference.[[Video](https://www.bilibili.com/video/BV1DN411v7U4/?spm_id_from=444.41.list.card_archive.click&vd_source=a4fe546e92107179c3044d619f1cebfa),[PDF](https://blog.luofu.monster/file/孟凡祎krillGAN.pdf)]
 
+- SEAPODYM: A population model. [[PDF](https://blog.luofu.monster/file/seapodym.pdf)]
 
 - A quickstart of Bayesian Hierarchical Model.[[Video](https://www.bilibili.com/video/BV1NF411D7UA/?spm_id_from=444.41.list.card_archive.click&vd_source=a4fe546e92107179c3044d619f1cebfa),[PDF](https://blog.luofu.monster/file/BHM介绍.pdf)]
+
+- Annual Summary for 2022 [[PDF](https://blog.luofu.monster/file/2023Summary.pdf)] 
+
+- Sleepy seals [[PDF](https://blog.luofu.monster/file/sleepy_seals.pdf)]
+
+- EXGAN: A extreme model using Deep Learning. [[PDF](https://blog.luofu.monster/file/exgan.pdf)]
+
+- Introduction of CCAMLR Ecosystem Monitoring Program（CEMP）. [[PDF](https://blog.luofu.monster/file/cemp汇报.pdf)]
+
+
+
+### undergraduate stage
+
+- What is Argos? [[PDF](https://blog.luofu.monster/file/Argos.pdf)]
+
+- Preprocess Argo data. [[PDF](https://blog.luofu.monster/file/preprocess_argo_data.pdf)]
+
+
+
+
 <br>
 
 
