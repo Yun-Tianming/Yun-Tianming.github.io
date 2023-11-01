@@ -27,7 +27,7 @@ I am currently pursuing my studies in Marine Science at [Shanghai Ocean Universi
 ---
 
 ## Skills
-I almost learn my all skills from the internet, now I represent them as wordart. In the future, I plan to write a blog to introduce these skills.
+I almost learn my all skills from the internet, now I represent them as wordart. [See more](https://circular-kettle-026.notion.site/Cyber-skills-f142f39dc38048d8bde60bcfc83411e2).
 
 <script src="//cdn.wordart.com/wordart.min.js" async defer></script>
 
