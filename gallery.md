@@ -17,9 +17,14 @@ title: Gallery
 
 ## 2023/11/07
 ### The speech could be summarized by three phases : 学我者死，似我者死，近我者死。
-<center>
-<img src="/gallery/022.png">
-</center>
+
+[//]: # (<center>)
+
+[//]: # (<img src="/gallery/022.png">)
+
+[//]: # (</center>)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U9mJuUkhUzk?si=wWBfompFl3IX4Gjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 ## 2023/10/28
 ### All models are wrong, but some are useful.
