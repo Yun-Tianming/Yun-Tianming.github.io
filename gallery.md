@@ -15,6 +15,12 @@ title: Gallery
 
 ---------------------------------------------------------------
 
+## 2023/11/07
+### The speech could be summarized by three phases : 学我者死，似我者死，近我者死。
+<center>
+<img src="/gallery/022.png">
+</center>
+
 ## 2023/10/28
 ### All models are wrong, but some are useful.
 Deep learning did not emerge out of thin air. As illustrated below, traditional models and deep learning have the same underlying structure. However, deep learning is simpler in that it eliminates complex refinement and intricate mathematical design. All you need is to input the dataset and train it.[[Video](https://www.bilibili.com/video/BV1NF411D7UA/?spm_id_from=444.41.list.card_archive.click&vd_source=a4fe546e92107179c3044d619f1cebfa),[PDF](https://blog.luofu.monster/file/BHM介绍.pdf)]
