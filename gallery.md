@@ -16,7 +16,7 @@ title: Gallery
 ---------------------------------------------------------------
 
 ## 2023/11/07
-### The speech could be summarized by three phases : 学我者死，似我者死，近我者死。
+### The speech could be summarized by three phrases : 学我者死，似我者死，近我者死。
 
 [//]: # (<center>)
 
