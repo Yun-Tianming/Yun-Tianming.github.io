@@ -16,7 +16,7 @@ I am currently pursuing my studies in Marine Science at [Shanghai Ocean Universi
 
 ## Academic Background
 
-**I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
+[//]: # (**I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**)
 
 - **Sep 2019 - June 2023:** Shanghai Ocean University (Bachelor)
 - **Sep 2022 - May 2025:** Shanghai Ocean University (Master)
