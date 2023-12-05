@@ -19,7 +19,7 @@ I am currently pursuing my studies in Marine Science at [Shanghai Ocean Universi
 [//]: # (**I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**)
 
 - **Sep 2019 - June 2023:** Shanghai Ocean University (Bachelor)
-- **Sep 2022 - May 2025:** Shanghai Ocean University (Master)
+- **Sep 2022 - May 2025:** Shanghai Ocean University && Third Institute of Oceanography China(Master)
 - Ecological surveys are my passion, and I am eagerly looking forward to becoming a volunteer in activities such as bird surveys! 
 
 <br>
@@ -55,6 +55,14 @@ My research focus is to provide new insights into the Southern Ocean ecosystem u
 
 ## News and Updates
 
+- **12,2023--6,2025; monthly：** dolphins survey, Xiamen.
+<table>
+    <tr>
+        <td ><center><img  src="/gallery/023.jpg" ></center></td>
+    </tr>
+</table>
+
+- **9-10 2023：** Bird-Crashing Survey in Shanghai Ocean University.[certificate](https://blog.luofu.monster/file/鸟撞.pdf)
 
 - **9 2023：** Bird Survey in Nanhui District, Shanghai.
 <table>
