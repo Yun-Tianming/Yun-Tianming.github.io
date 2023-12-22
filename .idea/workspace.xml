@@ -25,7 +25,7 @@
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
-  &quot;associatedIndex&quot;: -1
+  &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2GoDgBPFljLklRmMhEeS4qFDqLp" />
   <component name="ProjectLevelVcsManager">
@@ -48,6 +48,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -111,6 +112,8 @@
       <workItem from="1698941952262" duration="299000" />
       <workItem from="1701778146359" duration="68000" />
       <workItem from="1701779037529" duration="983000" />
+      <workItem from="1702604947162" duration="682000" />
+      <workItem from="1703217790728" duration="347000" />
     </task>
     <servers />
   </component>

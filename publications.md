@@ -51,6 +51,7 @@ title: Publications
 ## Seminars & Conferences
 ### graduate stage
 
+- Review of top predator in the southern ocean(seals and penguins).[[Video](https://www.bilibili.com/video/BV1cN4y147xT/?spm_id_from=333.999.0.0&vd_source=a4fe546e92107179c3044d619f1cebfa),[PDF](https://blog.luofu.monster/file/南大洋顶级捕食者研究概况.pdf)]
 - Drawn of LMM(AGI) [[Video](https://www.bilibili.com/video/BV1184y1R7Tg/?spm_id_from=444.41.list.card_archive.click&vd_source=a4fe546e92107179c3044d619f1cebfa),[PDF](https://blog.luofu.monster/file/LMM曙光.pdf)]
 
 - Academic presentation at the Zhoushan Fisheries Conference.[[Video](https://www.bilibili.com/video/BV1DN411v7U4/?spm_id_from=444.41.list.card_archive.click&vd_source=a4fe546e92107179c3044d619f1cebfa),[PDF](https://blog.luofu.monster/file/孟凡祎krillGAN.pdf)]
