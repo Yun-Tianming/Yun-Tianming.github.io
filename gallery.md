@@ -10,7 +10,7 @@ title: Gallery
 
 [//]: # (- 这是我的朋友圈~日常吐槽用，还又终于可以分享不被压缩的照片了😜)
 
-- I built a gallery online, where you can see my photography of [daily life](http://gallery.luofu.monster/share/g_4gJP5txqakz6yu56JEZFtdgNWV-1LLZA61_t6hUaiyvoyvEdKiGZEi1nPdFBnbsrs).
+- I built a gallery online, where you can see my photography of [daily life](http://64.69.41.183:2283/share/g_4gJP5txqakz6yu56JEZFtdgNWV-1LLZA61_t6hUaiyvoyvEdKiGZEi1nPdFBnbsrs) and [wild day](http://64.69.41.183:2283/share/dJBIDA9RaW4e2EbNFk1bcXJBr4c_1fGFR6HSbpaCZnyu80IUxKSfdEF8LrJ1lRbmJZg).
 - This is a section where I share about my daily life. Chinese will be the primary language here. I apologize for any inconvenience caused if you don't understand Chinese.
 
 ---------------------------------------------------------------
