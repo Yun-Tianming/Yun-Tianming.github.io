@@ -7,6 +7,11 @@ title: Blogs
 ## Blogs
 放一些自己的技术整理和随想感悟。
 
+### 2024
+- [六级低分飞过心得](https://circular-kettle-026.notion.site/5d32cc2957d1481c9e642fe5975d9a3d)
+
+
+
 ### 2023
 - [CNN Explainer II: Deployment, Background Process Retention, and Domain Proxy](https://circular-kettle-026.notion.site/CNN-Explainer-II-Deployment-Background-Process-Retention-and-Domain-Proxy-6caaa37251584ae0b3d4e1a9c631eb7b?pvs=4)
 - [CNN Explainer Ⅰ: Resolving the Interface Issue ](https://blog.luofu.monster/blogs/CNNExplainer)
