@@ -54,15 +54,48 @@ My research focus is to provide new insights into the Southern Ocean ecosystem u
 ---
 
 ## News and Updates
+- **4,2024; monthly：** Breeding Survey of the blue-tailed bee-eater(_Merops philippinus_), Xiamen.
+<table>
+    <tr>
+        <td ><center><img src="/gallery/030.jpg" ></center></td>
+        <td ><center><img src="/gallery/031.jpg" ></center></td>
+        <td ><center><img src="/gallery/032.jpg" ></center></td>
+    </tr>
+</table>
 
-- **12,2023--6,2025; monthly：** dolphins survey, Xiamen.
+- **4,2024; monthly：** Bird survey of islands, at Fuding city, Fujian.
+<table>
+    <tr>
+        <td ><center><img src="/gallery/027.jpg" ></center></td>
+        <td ><center><img src="/gallery/028.jpg" ></center></td>
+        <td ><center><img src="/gallery/029.jpg" ></center></td>
+    </tr>
+</table>
+
+- **4,2024; monthly：** Wenzhou's Wetland Bird Survey, Zhejiang.
+<table>
+    <tr>
+        <td ><center><img src="/gallery/025.jpg" ></center></td>
+        <td ><center><img src="/gallery/026.jpg" ></center></td>
+    </tr>
+</table>
+
+- **2,2024-; monthly：** Xiang'an Airport Ecological Impact Survey, Xiamen.
+<table>
+    <tr>
+        <td ><center><img  src="/gallery/024.jpg" ></center></td>
+    </tr>
+</table>
+
+
+- **12,2023-; monthly：** Indo-Pacific humpback dolphins survey, Xiamen.
 <table>
     <tr>
         <td ><center><img  src="/gallery/023.jpg" ></center></td>
     </tr>
 </table>
 
-- **9-10 2023：** Bird-Crashing Survey in Shanghai Ocean University.[certificate](https://blog.luofu.monster/file/鸟撞.pdf)
+- **9-10 2023：** Avian collision investigation in Shanghai Ocean University.[certificate](https://blog.luofu.monster/file/鸟撞.pdf)
 
 - **9 2023：** Bird Survey in Nanhui District, Shanghai.
 <table>
