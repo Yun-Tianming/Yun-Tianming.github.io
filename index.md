@@ -96,6 +96,11 @@ My research focus is to provide new insights into the Southern Ocean ecosystem u
 </table>
 
 - **9-10 2023：** Avian collision investigation in Shanghai Ocean University.[certificate](https://blog.luofu.monster/file/鸟撞.pdf)
+<table>
+    <tr>
+        <td ><center><img  src="/gallery/news/009.jpg" ></center></td>
+    </tr>
+</table>
 
 - **9 2023：** Bird Survey in Nanhui District, Shanghai.
 <table>
