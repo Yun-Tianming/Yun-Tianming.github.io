@@ -6,7 +6,7 @@ layout: page
 
 # About Me
 
-<img src="images/luofu.jpg" class="floatpic" >
+<img src="images/luofu02.jpg" class="floatpic" >
 
 Here is Fanyi Meng ([孟凡祎](https://yun-tianming.github.io/file/简历.pdf)),You can also call me **Luofu**, which is one of my favorite nicknames.
 
