@@ -4,50 +4,86 @@ permalink: /projects/index.html
 title: Projects
 ---
 
-There is nothing worth showcasing at the moment😥
-# Research Projects
+[//]: # (## Fieldwork and Research Experience)
 
-P.S., click the hyperlink title to access the source.<br>
+### Cetacean Habitat Surveys, Taiwan Strait
+**Core Team Member | 2024 - Present**
 
-continuing。。。。
+- Conducted long-term monitoring of Indo-Pacific humpback dolphins (*Sousa chinensis*) and Indo-Pacific finless porpoises (*Neophocaena phocaenoides*).
 
-[//]: # (#### [OpenIoT: Industrial Inspection System]&#40;https://fzuiot.site/&#41;)
+<div class="image-grid-2">
+<img src="/gallery/033.jpg" alt="Cetacean survey 1">
+<img src="/gallery/034.jpg" alt="Cetacean survey 2">
+</div>
 
+- Designed systematic line-transect surveys and performed rigorous data analysis, which led to the confirmation of a resident population of Indo-Pacific bottlenose dolphins (*Tursiops aduncus*) and Common dolphin (*Delphinus delphis*).
 
-[//]: # (<center>)
+<div class="image-grid">
+<img src="/gallery/035.jpg" alt="Bottlenose dolphins">
+<img src="/gallery/036.jpg" alt="Common dolphins">
+<img src="/gallery/037.jpg" alt="Data analysis">
+</div>
 
-[//]: # (<img src="/images/openiot-system.png">)
+- Provided critical data and analysis for regional conservation, contributing directly to a publication in *Marine Mammal Science*.
 
-[//]: # (</center>)
+<div class="image-grid-2">
+<img src="/gallery/038.png" alt="Publication data">
+<img src="/gallery/039.jpg" alt="Conservation work">
+</div>
 
-[//]: # ()
-[//]: # (<br>)
+### Ecological Hotspots of Top Predators, Southern Ocean
+**Researcher | 2023 - Present**
 
-[//]: # ()
-[//]: # (#### [Multi-objective Optimization Strategy Model &#40;MCM-2023&#41;]&#40;https://caihanlin.com/mypaper/modeling/202302COMAP.pdf&#41;)
+- Analyzed observational data from the 38th-41st Chinese National Antarctic Research Expeditions (CHINARE) to map the spatiotemporal distribution of apex predators.
 
-[//]: # ()
-[//]: # (<center>)
+<div class="single-image">
+<img src="/gallery/040.jpg" alt="Antarctic research expedition">
+</div>
 
-[//]: # (<img src="/images/MCM-figure3.jpg">)
+- My master's thesis aims to identify and explain the formation mechanisms of ecological hotspots for key species (e.g., southern elephant seals, cetaceans) by developing robust ecological niche models.
 
-[//]: # (</center>)
+<div class="image-grid">
+<img src="/gallery/041.jpg" alt="Ecological hotspots mapping 1">
+<img src="/gallery/042.jpg" alt="Ecological hotspots mapping 2">
+<img src="/gallery/043.jpg" alt="Ecological hotspots mapping 3">
+</div>
 
-[//]: # (<br>)
+### Applications of Deep Learning in Oceanography
+**Researcher | 2022 - Present**
 
+- Independently developed a Generative Adversarial Network (GAN) to model fishing vessel behavior in the Antarctic krill fishery, with results published in *Fisheries Research*.
 
+<div class="image-grid-2">
+<img src="/gallery/044.jpg" alt="GAN model development">
+<img src="/gallery/045.JPG" alt="Fishery modeling">
+</div>
+
+- Currently leading two projects: 1) developing a deep learning model to simulate marine extreme events, and 2) using remote sensing imagery to automate the identification of marine mammal aggregations.
+
+<div class="image-grid-2">
+<img src="/gallery/046.png" alt="Deep learning model">
+<img src="/gallery/047.png" alt="Remote sensing analysis">
+</div>
+
+### Avian Ecology, Xiamen & Multiple Regions
+**Field Researcher | 2024 - Present**
+
+- Monitored breeding sites of blue-tailed bee-eaters (*Merops philippinus*) and Eurasian oystercatchers (*Haematopus ostralegus*).
+
+<div class="image-grid">
+<img src="/gallery/030.jpg" alt="Blue-tailed bee-eater monitoring 1">
+<img src="/gallery/031.jpg" alt="Blue-tailed bee-eater monitoring 2">
+<img src="/gallery/048.jpg" alt="Blue-tailed bee-eater monitoring 3">
+</div>
+
+- Conducted urban and waterbird surveys and monitoring across various regions to assess population dynamics and habitat health.
+
+<div class="image-grid">
+<img src="/gallery/027.jpg" alt="Urban bird survey 1">
+<img src="/gallery/028.jpg" alt="Urban bird survey 2">
+<img src="/gallery/029.jpg" alt="Urban bird survey 3">
+</div>
 
 <br>
 
 ---
-
-# Open-source Projects
-continuing。。。。
-<br>
-
-[//]: # ()
-[//]: # (#### [FZU-Flying-Book 福州大学飞跃手册]&#40;https://fzu-fly.online/&#41;)
-
-[//]: # ()
-[//]: # (This is the flying handbook for FZU students. Many outstanding graduates of Fuzhou University leave their unique experiences, valuable wisdom, and sincere wishes in this flying-handbook.)
-

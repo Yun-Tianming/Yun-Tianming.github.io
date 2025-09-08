@@ -13,12 +13,22 @@ title: Publications
 
 
 
-- [my chinese paper about southern elephant seals](https://yun-tianming.github.io/file/南极凯尔盖朗海台南象海豹繁殖后运动行为特征分析.pdf)
+- Zhu, G., & Meng, F. (2023). Analysis of post-breeding movement characteristics of southern elephant seals on the Kerguelen Plateau, Antarctica. Journal of Shanghai Ocean University, 32(01), 181-189. (In Chinese)
+[[PDF](https://yun-tianming.github.io/file/南极凯尔盖朗海台南象海豹繁殖后运动行为特征分析.pdf)]
 
-[//]: # (<br>**Hanlin Cai** &#40;Advisor: Zhezhuang Xu&#41;)
 
-[//]: # ()
-[//]: # ()
+- Meng, Fanyi, and Guoping Zhu. "Using a generative adversarial network-based model to simulate fishing behavior in Antarctic krill fishery." Fisheries Research 276 (2024): 107065. [IF: 2.3, Q2]
+[[PDF](https://yun-tianming.github.io/file/paper2.pdf)]
+
+
+- Dai, Y., Meng, F., Wu, F., Miao, X., Yan, D., Zhong, M., ... & Lin, L. (2025). Predicting the potential distribution of major marine mammals in the Cosmonaut Sea. Frontiers in Marine Science, 12, 1529913. [IF: 3.0, Q1]
+[[PDF](https://yun-tianming.github.io/file/paper3.pdf)]
+
+
+- Meng, Fanyi, et al. "Preliminary Investigation of the Indo‐Pacific Bottlenose Dolphins (Tursiops aduncus) Around the Taiwan Strait." Marine Mammal Science (2025): e70042. [IF: 1.9, Q1]
+[[PDF](https://yun-tianming.github.io/file/paper4.pdf)]
+
+
 [//]: # ()
 [//]: # (<br>Industrial Placement Thesis in Huading Tech and IACTIP Lab)
 

@@ -35,6 +35,12 @@ title: Hobbies
 </div>
 <br>I find solace in engaging in individual physical activities, such as swimming 🏊‍, strength training 💪, and cycling 🚲. As my vision blurs amidst the perspiration, a serene tranquility envelops me.
 
+## Music
+
+<div>
+<img src="/images/guitar.jpg">
+</div>
+<br>Recently, I have been trying to get into guitar playing and have increasingly come to appreciate the beauty of blues music. I hope that one day I will be able to play this style as well.
 
 ## Programming
 

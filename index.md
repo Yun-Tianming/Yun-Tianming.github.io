@@ -72,7 +72,7 @@ Latest Update: 9th Sep 2025 &nbsp;
 
 <img src="images/luofu02.jpg" class="floatpic" alt="Profile photo of Fanyi Meng">
 
-Here is Fanyi Meng ([孟凡祎](https://yun-tianming.github.io/file/CV.pdf)). You can also call me **Luofu**, which is one of my favorite nicknames.
+Here is Fanyi Meng ([孟凡祎](https://yun-tianming.github.io/file/CV_2.pdf)). You can also call me **Luofu**, which is one of my favorite nicknames.
 
 I am currently pursuing my studies in Marine Science at [Shanghai Ocean University](https://www.shou.edu.cn/), with a research focus on using mathematical modeling to unravel the mysteries of the Southern Ocean ecosystem. My ultimate aspiration is to immerse myself in the enchanting and breathtaking beauty of Antarctica, experiencing its awe-inspiring landscapes firsthand.
 
@@ -119,89 +119,6 @@ I am proficient in applying mathematical modeling to ecological challenges and p
 
 ---
 
-## Fieldwork and Research Experience
-
-### Cetacean Habitat Surveys, Taiwan Strait
-**Core Team Member | 2024 - Present**
-
-- Conducted long-term monitoring of Indo-Pacific humpback dolphins (*Sousa chinensis*) and Indo-Pacific finless porpoises (*Neophocaena phocaenoides*).
-
-<div class="image-grid-2">
-<img src="/gallery/033.jpg" alt="Cetacean survey 1">
-<img src="/gallery/034.jpg" alt="Cetacean survey 2">
-</div>
-
-- Designed systematic line-transect surveys and performed rigorous data analysis, which led to the confirmation of a resident population of Indo-Pacific bottlenose dolphins (*Tursiops aduncus*) and Common dolphin (*Delphinus delphis*). 
-
-<div class="image-grid">
-<img src="/gallery/035.jpg" alt="Bottlenose dolphins">
-<img src="/gallery/036.jpg" alt="Common dolphins">
-<img src="/gallery/037.jpg" alt="Data analysis">
-</div>
-
-- Provided critical data and analysis for regional conservation, contributing directly to a publication in *Marine Mammal Science*.
-
-<div class="image-grid-2">
-<img src="/gallery/038.png" alt="Publication data">
-<img src="/gallery/039.jpg" alt="Conservation work">
-</div>
-
-### Ecological Hotspots of Top Predators, Southern Ocean
-**Researcher | 2023 - Present**
-
-- Analyzed observational data from the 38th-41st Chinese National Antarctic Research Expeditions (CHINARE) to map the spatiotemporal distribution of apex predators.
-
-<div class="single-image">
-<img src="/gallery/040.jpg" alt="Antarctic research expedition">
-</div>
-
-- My master's thesis aims to identify and explain the formation mechanisms of ecological hotspots for key species (e.g., southern elephant seals, cetaceans) by developing robust ecological niche models.
-
-<div class="image-grid">
-<img src="/gallery/041.jpg" alt="Ecological hotspots mapping 1">
-<img src="/gallery/042.jpg" alt="Ecological hotspots mapping 2">
-<img src="/gallery/043.jpg" alt="Ecological hotspots mapping 3">
-</div>
-
-### Applications of Deep Learning in Oceanography
-**Researcher | 2022 - Present**
-
-- Independently developed a Generative Adversarial Network (GAN) to model fishing vessel behavior in the Antarctic krill fishery, with results published in *Fisheries Research*.
-
-<div class="image-grid-2">
-<img src="/gallery/044.jpg" alt="GAN model development">
-<img src="/gallery/045.JPG" alt="Fishery modeling">
-</div>
-
-- Currently leading two projects: 1) developing a deep learning model to simulate marine extreme events, and 2) using remote sensing imagery to automate the identification of marine mammal aggregations.
-
-<div class="image-grid-2">
-<img src="/gallery/046.png" alt="Deep learning model">
-<img src="/gallery/047.png" alt="Remote sensing analysis">
-</div>
-
-### Avian Ecology, Xiamen & Multiple Regions
-**Field Researcher | 2024 - Present**
-
-- Monitored breeding sites of blue-tailed bee-eaters (*Merops philippinus*) and Eurasian oystercatchers (*Haematopus ostralegus*).
-
-<div class="image-grid">
-<img src="/gallery/030.jpg" alt="Blue-tailed bee-eater monitoring 1">
-<img src="/gallery/031.jpg" alt="Blue-tailed bee-eater monitoring 2">
-<img src="/gallery/032.jpg" alt="Blue-tailed bee-eater monitoring 3">
-</div>
-
-- Conducted urban and waterbird surveys and monitoring across various regions to assess population dynamics and habitat health.
-
-<div class="image-grid">
-<img src="/gallery/027.jpg" alt="Urban bird survey 1">
-<img src="/gallery/028.jpg" alt="Urban bird survey 2">
-<img src="/gallery/029.jpg" alt="Urban bird survey 3">
-</div>
-
-<br>
-
----
 
 ## Volunteer Projects and Activities
 
