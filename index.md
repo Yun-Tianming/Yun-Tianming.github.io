@@ -2,13 +2,13 @@
 layout: page
 ---
 
-[//]: # (Lastest Update: 21th Jul 2023 &nbsp;)
+Latest Update: 9th Sep 2025 &nbsp;
 
 # About Me
 
-<img src="images/luofu02.jpg" class="floatpic" >
+<img src="images/luofu02.jpg" class="floatpic" alt="Profile photo of Fanyi Meng">
 
-Here is Fanyi Meng ([孟凡祎](https://yun-tianming.github.io/file/简历.pdf)),You can also call me **Luofu**, which is one of my favorite nicknames.
+Here is Fanyi Meng ([孟凡祎](https://yun-tianming.github.io/file/CV.pdf)). You can also call me **Luofu**, which is one of my favorite nicknames.
 
 I am currently pursuing my studies in Marine Science at [Shanghai Ocean University](https://www.shou.edu.cn/), with a research focus on using mathematical modeling to unravel the mysteries of the Southern Ocean ecosystem. My ultimate aspiration is to immerse myself in the enchanting and breathtaking beauty of Antarctica, experiencing its awe-inspiring landscapes firsthand.
 
@@ -16,22 +16,19 @@ I am currently pursuing my studies in Marine Science at [Shanghai Ocean Universi
 
 ## Academic Background
 
-[//]: # (**I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**)
-
 - **Sep 2019 - June 2023:** Shanghai Ocean University (Bachelor)
-- **Sep 2022 - May 2025:** Shanghai Ocean University && Third Institute of Oceanography China(Master)
-- Ecological surveys are my passion, and I am eagerly looking forward to becoming a volunteer in activities such as bird surveys! 
+- **2023 - Present:** Shanghai Ocean University / Third Institute of Oceanography, Ministry of Natural Resources (M.S., Marine Biology)  
+  Thesis: Simulation Study of Marine Extreme Events in the Scotia Sea, Antarctica
 
 <br>
 
 ---
 
 ## Skills
-I almost learn my all skills from the internet, now I represent them as wordart. [See more](https://circular-kettle-026.notion.site/Cyber-skills-f142f39dc38048d8bde60bcfc83411e2).
 
-<script src="//cdn.wordart.com/wordart.min.js" async defer></script>
+I learned almost all my skills from the internet. Now I represent them as word art. [See more](https://circular-kettle-026.notion.site/Cyber-skills-f142f39dc38048d8bde60bcfc83411e2).
 
-<div  data-wordart-src="//cdn.wordart.com/json/9e5fngrbm0r8" data-wordart-show-attribution></div>
+<img src="images/wordart.jpg" alt="Skills word art visualization">
 
 <br>
 
@@ -39,22 +36,95 @@ I almost learn my all skills from the internet, now I represent them as wordart.
 
 ## Research Interests
 
-- Deep Learning
-- Antarctic krill
-- Marine mammals & Seabirds
+- Marine mammal ecology and behavioral ecology
+- Cetacean habitat distribution and ecological hotspots
+- Antarctic ecosystem modeling and top predator dynamics
+- Avian habitat and breeding behavior
 
-My research focus is to provide new insights into the Southern Ocean ecosystem using deep learning and traditional mathematical models within the constraints of limited computational resources💻. Currently, I am working on modeling the behavior of krill fisheries using generative models (GAN). In the future, I hope to utilize object detection techniques to track top predators🐧 in the Southern Ocean that are equipped with electronic tags.
+I am a dedicated Master's student specializing in marine mammal ecology and behavioral ecology (GPA: 3.8/4.0). My work focuses on investigating cetacean habitat distribution along the Taiwan Strait, analyzing ecological hotspots of top predators in the Southern Ocean, and contributing to avian habitat and breeding behavior surveys.
+
+I am proficient in applying mathematical modeling to ecological challenges and possess extensive fieldwork experience. I am driven by discovering patterns in data and validating hypotheses in the field.
+
 <div class="third">
-<img src="/images/seal1.jpg">
-<img src="/images/bird.jpg">
-<img src="/images/king.jpg">
+<img src="/images/seal1.jpg" >
+<img src="/images/hengyun.jpg" >
+<img src="/images/dolphin.jpg" >
 </div>
+
 <br>
 
 ---
 
-## News and Updates
-- **4,2024; monthly：** Breeding Survey of the blue-tailed bee-eater(_Merops philippinus_), Xiamen.
+## Fieldwork and Research Experience
+
+### Cetacean Habitat Surveys, Taiwan Strait
+**Core Team Member | 2024 - Present**
+
+- Conducted long-term monitoring of Indo-Pacific humpback dolphins (*Sousa chinensis*) and Indo-Pacific finless porpoises (*Neophocaena phocaenoides*).
+<table>
+    <tr>
+        <td ><center><img src="/gallery/033.jpg" ></center></td>
+        <td ><center><img src="/gallery/034.jpg" ></center></td>
+    </tr>
+</table>
+- Designed systematic line-transect surveys and performed rigorous data analysis, which led to the confirmation of a resident population of Indo-Pacific bottlenose dolphins(*Tursiops aduncus*) and Common dolphin (Delphinus delphis). 
+<table>
+    <tr>
+        <td ><center><img src="/gallery/035.jpg" ></center></td>
+        <td ><center><img src="/gallery/036.jpg" ></center></td>
+        <td ><center><img src="/gallery/037.jpg" ></center></td>
+    </tr>
+</table>
+- Provided critical data and analysis for regional conservation, contributing directly to a publication in *Marine Mammal Science* .
+<table>
+    <tr>
+        <td ><center><img src="/gallery/038.png" ></center></td>
+        <td ><center><img src="/gallery/039.jpg" ></center></td>
+    </tr>
+</table>
+
+### Ecological Hotspots of Top Predators, Southern Ocean
+**Researcher | 2023 - Present**
+
+- Analyzed observational data from the 38th-41st Chinese National Antarctic Research Expeditions (CHINARE) to map the spatiotemporal distribution of apex predators.
+<table>
+    <tr>
+        <td ><center><img src="/gallery/040.jpg" ></center></td>
+    </tr>
+</table>
+- My master's thesis aims to identify and explain the formation mechanisms of ecological hotspots for key species (e.g., southern elephant seals, cetaceans) by developing robust ecological niche models.
+<table>
+    <tr>
+        <td ><center><img src="/gallery/041.jpg" ></center></td>
+        <td ><center><img src="/gallery/042.jpg" ></center></td>
+        <td ><center><img src="/gallery/043.jpg" ></center></td>
+    </tr>
+</table>
+
+
+### Applications of Deep Learning in Oceanography
+**Researcher | 2022 - Present**
+
+- Independently developed a Generative Adversarial Network (GAN) to model fishing vessel behavior in the Antarctic krill fishery, with results published in *Fisheries Research*.
+<table>
+    <tr>
+        <td ><center><img src="/gallery/044.jpg" ></center></td>
+        <td ><center><img src="/gallery/045.jpg" ></center></td>
+    </tr>
+</table>
+
+- Currently leading two projects: 1) developing a deep learning model to simulate marine extreme events, and 2) using remote sensing imagery to automate the identification of marine mammal aggregations.
+<table>
+    <tr>
+        <td ><center><img src="/gallery/046.png" ></center></td>
+        <td ><center><img src="/gallery/047.png" ></center></td>
+    </tr>
+</table>
+
+### Avian Ecology, Xiamen & Multiple Regions
+**Field Researcher | 2024 - Present**
+
+- Monitored breeding sites of blue-tailed bee-eaters (*Merops philippinus*) and Eurasian oystercatchers (*Haematopus ostralegus*).
 <table>
     <tr>
         <td ><center><img src="/gallery/030.jpg" ></center></td>
@@ -62,8 +132,7 @@ My research focus is to provide new insights into the Southern Ocean ecosystem u
         <td ><center><img src="/gallery/032.jpg" ></center></td>
     </tr>
 </table>
-
-- **4,2024; monthly：** Bird survey of islands, at Fuding city, Fujian.
+- Conducted urban and waterbird surveys and monitoring across various regions to assess population dynamics and habitat health.
 <table>
     <tr>
         <td ><center><img src="/gallery/027.jpg" ></center></td>
@@ -72,61 +141,41 @@ My research focus is to provide new insights into the Southern Ocean ecosystem u
     </tr>
 </table>
 
-- **4,2024; monthly：** Wenzhou's Wetland Bird Survey, Zhejiang.
+<br>
+
+---
+
+## Volunteer Projects and Activities
+
+- **Sep-Oct 2023:** Avian collision investigation at Shanghai Ocean University.
+
 <table>
     <tr>
-        <td ><center><img src="/gallery/025.jpg" ></center></td>
-        <td ><center><img src="/gallery/026.jpg" ></center></td>
+        <td><center><img src="/gallery/news/009.jpg" alt="Bird collision investigation"></center></td>
     </tr>
 </table>
 
-- **2,2024-; monthly：** Xiang'an Airport Ecological Impact Survey, Xiamen.
+- **Sep 2023:** Bird Survey in Nanhui District, Shanghai.
+
 <table>
     <tr>
-        <td ><center><img  src="/gallery/024.jpg" ></center></td>
+        <td><center><img src="/gallery/news/006.jpg" alt="Nanhui bird survey"></center></td>
     </tr>
 </table>
 
+- **Jun-Jul 2023:** Owl Habitat Survey in Jilin Province Dagangzi.
 
-- **12,2023-; monthly：** Indo-Pacific humpback dolphins survey, Xiamen.
 <table>
     <tr>
-        <td ><center><img  src="/gallery/023.jpg" ></center></td>
-    </tr>
-</table>
-
-- **9-10 2023：** Avian collision investigation in Shanghai Ocean University.[certificate](https://blog.luofu.monster/file/鸟撞.pdf)
-<table>
-    <tr>
-        <td ><center><img  src="/gallery/news/009.jpg" ></center></td>
-    </tr>
-</table>
-
-- **9 2023：** Bird Survey in Nanhui District, Shanghai.
-<table>
-    <tr>
-        <td ><center><img  src="/gallery/news/006.jpg" ></center></td>
-    </tr>
-</table>
-
-- **8 2023：** Fishery Conference in Zhoushan.
-<table>
-    <tr>
-        <td ><center><img src="/gallery/news/004.jpg" ></center></td>
-        <td ><center><img src="/gallery/news/005.jpg" ></center></td>
-    </tr>
-</table>
-
-- **6-7 2023：** Owl Habitat Survey in Jilin Province Dagangzi .
-<table>
-    <tr>
-        <td ><center><img  src="/gallery/news/003.jpg" ></center></td>
+        <td><center><img src="/gallery/news/003.jpg" alt="Owl habitat survey"></center></td>
     </tr>
 </table>
 
 <br>
 
-## Chat with me 
+---
+
+## Chat with Me
 
 If you are a user of Chinese real-time communication software, these methods of contacting me may be more convenient:
 
