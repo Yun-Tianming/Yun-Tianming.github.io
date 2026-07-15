@@ -5,7 +5,7 @@ My name is **Fanyi Meng (Luofu, 孟凡祎)**. Welcome to my personal website. Th
 
 ## Update and News
 
-- **[News] I am actively searching for a PhD program, please [contact me](https://blog.luofu.monster)!**
+- **[News] I am actively searching for a PhD program, please [contact me](https://blog.luofu.org)!**
 
 
 ## Statement

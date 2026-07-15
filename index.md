@@ -72,7 +72,7 @@ Latest Update: 9th Sep 2025 &nbsp;
 
 <img src="images/luofu02.jpg" class="floatpic" alt="Profile photo of Fanyi Meng">
 
-Here is Fanyi Meng ([孟凡祎](https://yun-tianming.github.io/file/CV_2.pdf)). You can also call me **Luofu**, which is one of my favorite nicknames.
+Here is Fanyi Meng ([孟凡祎](/file/CV_2.pdf)). You can also call me **Luofu**, which is one of my favorite nicknames.
 
 I am currently pursuing my studies in Marine Science at [Shanghai Ocean University](https://www.shou.edu.cn/), with a research focus on using mathematical modeling to unravel the mysteries of the Southern Ocean ecosystem. My ultimate aspiration is to immerse myself in the enchanting and breathtaking beauty of Antarctica, experiencing its awe-inspiring landscapes firsthand.
 

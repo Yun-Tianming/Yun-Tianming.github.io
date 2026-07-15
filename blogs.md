@@ -14,10 +14,10 @@ title: Blogs
 
 ### 2023
 - [CNN Explainer II: Deployment, Background Process Retention, and Domain Proxy](https://circular-kettle-026.notion.site/CNN-Explainer-II-Deployment-Background-Process-Retention-and-Domain-Proxy-6caaa37251584ae0b3d4e1a9c631eb7b?pvs=4)
-- [CNN Explainer Ⅰ: Resolving the Interface Issue ](https://blog.luofu.monster/blogs/CNNExplainer)
-- [Docker部署academicGPT](https://blog.luofu.monster/blogs/Docker部署academicGPT)
-- [win实现xiaoaiGPT](https://blog.luofu.monster/blogs/win实现xiaoaiGPT)
-- [一个博客的诞生](https://blog.luofu.monster/blogs/一个博客的诞生)
+- [CNN Explainer Ⅰ: Resolving the Interface Issue ](/blogs/CNNExplainer)
+- [Docker部署academicGPT](/blogs/Docker部署academicGPT)
+- [win实现xiaoaiGPT](/blogs/win实现xiaoaiGPT)
+- [一个博客的诞生](/blogs/一个博客的诞生)
 
 ### former
 PS：在掘金网上的一些文章👀

@@ -8,7 +8,7 @@ layout: page
 
 <img src="images/luofu02.jpg" class="floatpic" >
 
-Here is Fanyi Meng ([孟凡祎](https://yun-tianming.github.io/file/CV.pdf)),You can also call me **Luofu**, which is one of my favorite nicknames.
+Here is Fanyi Meng ([孟凡祎](/file/CV.pdf)),You can also call me **Luofu**, which is one of my favorite nicknames.
 
 I am currently pursuing my studies in Marine Science at [Shanghai Ocean University](https://www.shou.edu.cn/), with a research focus on using mathematical modeling to unravel the mysteries of the Southern Ocean ecosystem. My ultimate aspiration is to immerse myself in the enchanting and breathtaking beauty of Antarctica, experiencing its awe-inspiring landscapes firsthand.
 
@@ -95,7 +95,7 @@ My research focus is to provide new insights into the Southern Ocean ecosystem u
     </tr>
 </table>
 
-- **9-10 2023：** Avian collision investigation in Shanghai Ocean University.[certificate](https://blog.luofu.monster/file/鸟撞.pdf)
+- **9-10 2023：** Avian collision investigation in Shanghai Ocean University.[certificate](/file/鸟撞.pdf)
 <table>
     <tr>
         <td ><center><img  src="/gallery/news/009.jpg" ></center></td>
