@@ -9,6 +9,10 @@ layout: nil
     <url><loc>{{ site.url }}/gallery/</loc></url>
     <url><loc>{{ site.url }}/hobbies/</loc></url>
     <url><loc>{{ site.url }}/blogs/</loc></url>
+    <url><loc>{{ site.url }}/blogs/CNNExplainer</loc></url>
+    <url><loc>{{ site.url }}/blogs/Docker%E9%83%A8%E7%BD%B2academicGPT</loc></url>
+    <url><loc>{{ site.url }}/blogs/win%E5%AE%9E%E7%8E%B0xiaoaiGPT</loc></url>
+    <url><loc>{{ site.url }}/blogs/%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A2%E7%9A%84%E8%AF%9E%E7%94%9F</loc></url>
     {% for post in site.posts %}
     <url>
         <loc>{{ site.url }}{{ post.url }}</loc>
